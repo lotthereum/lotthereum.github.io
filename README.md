@@ -1,2 +1,2 @@
-# lotthereum.github.io
-Open source decentralized Ethereum based lottery
+# Lotthereum
+Open source decentralized lottery based on Ethereum blockchain
